@@ -1,2 +1,2 @@
 # websitebackup
-Bash and python scripts used to backup developed websites.
+Bash and python scripts utilizing the flask.py framework for backing up Wordpress-like websites.
